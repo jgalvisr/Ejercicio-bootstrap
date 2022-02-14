@@ -1,0 +1,54 @@
+.container-fluid {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+#banner {
+  background-color: rgb(90, 59, 59);
+  color: white;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#left-menu {
+  background-color: orange;
+}
+
+#top-menu {
+  background-color: rgb(194, 129, 129);
+}
+
+#main-content-A, #main-content-B {
+  background-color: gainsboro;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#photo-1, #photo-3, #photo-5, #photo-7, #photo-9 {
+  background-color: rgb(230, 101, 101);
+}
+
+#photo-2, #photo-4, #photo-6, #photo-8, #photo-10 {
+  background-color: rgb(72, 157, 255);
+}
+
+#main-content-C {
+  background-color: aliceblue;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer {
+  background-color: rgb(90, 59, 59);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
